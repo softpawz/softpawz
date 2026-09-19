@@ -7,7 +7,9 @@
 <p align="center">
  ${\textsf{\color{#506a35}“ ᵗʰᵃᵗ’ˢ ᵗʰᵉ ˢᵒᵘⁿᵈ ᵒᶠ ᵈᵉʷ ᵈʳⁱᵖᵖⁱⁿᵍ ᵘᵖᵒⁿ ᵗʰᵉ ˡᵉᵃᵛᵉˢ. “}}$
 </p>
-<img align="center" width="250" alt="image" src="https://github.com/user-attachments/assets/d8c353f5-d61f-42d4-b356-882dff78663c" />
+<p align="center">
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/d8c353f5-d61f-42d4-b356-882dff78663c" />
+</p>
 
 
 
