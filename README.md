@@ -13,8 +13,8 @@
 <p align="center">
  ${\textsf{\color{#8b9a5f} " ⁱ ᶜᵃⁿ'ᵗ ʰᵉˡᵖ ᵇᵘᵗ ᵖⁱᶜᵏ ᵗʰᵉᵐ ᵘᵖ ᵃⁿᵈ ᵏᵉᵉᵖ ᵗʰᵉᵐ ᵃˢ ᵇⁱᵒˡᵒᵍⁱᶜᵃˡ ˢᵖᵉᶜⁱᵐᵉⁿˢ. "}}$
 </p>
-<img width="1250" alt="image" src="https://github.com/user-attachments/assets/a80edd79-bada-4881-8af2-72ba2ac5a9d4" />
 
 <p align="center">
  ${\textsf{\color{#4c572c}ᵛⁱˣ/ᵛⁱˣⁱᵃⁿ/ᵛⁱˣˣⁱᵉ/ˢⁱᵈ/ˢʰᵒʳᵗᶜᵃᵏᵉ/ᵏᵃⁱ}}$
 </p>
+<img width="1250" alt="image" src="https://github.com/user-attachments/assets/a80edd79-bada-4881-8af2-72ba2ac5a9d4" />
