@@ -10,7 +10,9 @@
 <p align="center">
   <img width="170" alt="image" src="https://github.com/user-attachments/assets/d8c353f5-d61f-42d4-b356-882dff78663c" />
 </p>
-
+<p align="center">
+ ${\textsf{\color{#8b9a5f} " ⁱ ᶜᵃⁿ'ᵗ ʰᵉˡᵖ ᵇᵘᵗ ᵖⁱᶜᵏ ᵗʰᵉᵐ ᵘᵖ ᵃⁿᵈ ᵏᵉᵉᵖ ᵗʰᵉᵐ ᵃˢ ᵇⁱᵒˡᵒᵍⁱᶜᵃˡ ˢᵖᵉᶜⁱᵐᵉⁿˢ. "}}$
+</p>
 <img width="1250" alt="image" src="https://github.com/user-attachments/assets/a80edd79-bada-4881-8af2-72ba2ac5a9d4" />
 
 
