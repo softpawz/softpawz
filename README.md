@@ -21,3 +21,5 @@
  ${\textsf{\color{#bdca76}ᵃˡˡ ᵖʳᵒⁿᵒᵘⁿˢ !}}$
 </p>
 <img width="1250" alt="image" src="https://github.com/user-attachments/assets/a80edd79-bada-4881-8af2-72ba2ac5a9d4" />
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/9b37bb11-ef63-4aa0-bf19-427c75674aba" />
+
